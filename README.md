@@ -21,4 +21,3 @@ There's LOTS more to explore in [Dave's channel](https://www.youtube.com/c/davea
 * [PAPER: A Brief History of Cellular Automata](https://github.com/TodePond/KnowPond/files/9508741/A_Brief_History_of_Cellular_Automata.2.pdf)
 ---
 * [COMMUNITY: Emergence](https://discord.gg/B79HvwXRTX)
----
