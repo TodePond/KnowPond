@@ -1,3 +1,5 @@
+# Some of my influences in an intentionally hard-to-read list
+<!-- why are you looking at the raw file? you're not supposed to read the list this way -->
 [Grayson Perry / Alan Measles](https://youtu.be/ZdjIyTeH72U)
 [What part of Kirin J Callinan don’t you understand?](https://youtu.be/5az0-Y8162g)
 [Gorillaz](https://youtu.be/S03T47hapAc)
