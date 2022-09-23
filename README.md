@@ -1,4 +1,5 @@
-Here are some cool resources for exploring tode-worthy things.
+Here are some cool resources for exploring tode-worthy things.<br>
+Or take a look at my [influences](influences.md).
 
 ---
 
