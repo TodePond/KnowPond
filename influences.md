@@ -17,3 +17,5 @@
 [Bip Ling / Mooch](https://youtu.be/6Chwr7UAl_4)
 [Above & Beyond](https://youtu.be/b42YWBoX5gU)
 [Beardyman](https://youtu.be/fTeqgdwp5TY)
+[Casey Neistat](https://youtu.be/qRv7G7WpOoU)
+[Slow Magic](https://youtu.be/j35bEVENClI)
