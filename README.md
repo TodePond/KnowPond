@@ -1,3 +1,3 @@
 Here are some of my:
-* [artistic influences](influences.md)
+* [creative influences](influences.md)
 * [coding influences](coding-influences.md)
