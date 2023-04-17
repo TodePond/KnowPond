@@ -24,5 +24,12 @@ Stagecast Creator by Allen Cypher<br>
 [Stagecast Creator Tutorial](https://youtu.be/C_4A62w-dEI)<br>
 [Stagecast Creator Info](http://acypher.com/creator/)
 
-Viscuit
+Viscuit<br>
 [Viscuit Tutorials](https://youtube.com/playlist?list=PL-fLVpCA2A3VsCdhti-6YkOO6SmoGsvxM)
+
+Future of Code by Steve Krowse<br>
+[Welcome to the Future of Coding](https://futureofcoding.org/episodes/001)
+
+The Programming Language That Must Not Be Named by Ivan Reese<br>
+[Hest, Time Travel](https://ivanish.ca/hest-time-travel/)<br>
+[Rabbit Hole](https://pod.link/1559446316/episode/b76554067d1f88748c38a7c06d4d7ffa)
