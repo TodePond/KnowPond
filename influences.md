@@ -18,4 +18,4 @@
 [Above & Beyond](https://youtu.be/b42YWBoX5gU)
 [Beardyman](https://youtu.be/fTeqgdwp5TY)
 [Casey Neistat](https://youtu.be/qRv7G7WpOoU)
-[Slow Magic](https://youtu.be/j35bEVENClI)
+[Slow Magic](https://youtu.be/j35bEVENClI) also Michael Rosen, Gaulier Clowning, Julia Donaldson
